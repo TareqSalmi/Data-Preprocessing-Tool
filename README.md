@@ -13,7 +13,7 @@ The **Data Preprocessing Tool** is a Python application designed using the PyQt5
 
 1. Run the script by executing the following command in your terminal:
 
-**python dataprotool.py **
+**python dataprotool.py**
 
 Replace `script_name.py` with the actual name of the script containing the provided code.
 
