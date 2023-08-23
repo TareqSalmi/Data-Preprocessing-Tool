@@ -41,10 +41,6 @@ Replace `script_name.py` with the actual name of the script containing the provi
 
 - This tool is intended for basic data preprocessing tasks. For more advanced data processing, consider using specialized libraries and tools.
 
-## License
-
-This tool is provided under an open-source license. Please refer to the license terms within the source code for more details.
-
 ---
 
 **Disclaimer**: The Data Preprocessing Tool is provided as-is, and the developers and contributors are not liable for any issues or data loss that might arise from its usage. Test the tool thoroughly with sample data before using it with critical data.
